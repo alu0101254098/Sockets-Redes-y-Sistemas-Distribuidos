@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1558687623 source:/home/labredes2/Redes/Socketsv4/Sockets/Practica_Sockets_Redes/ftp_server.cpp
+	<iostream>
+	<signal.h>
+	"FTPServer.h"
+
+1558685884 /home/labredes2/Redes/Socketsv4/Sockets/Practica_Sockets_Redes/FTPServer.h
+	<list>
+	"ClientConnection.h"
+
+1556870404 /home/labredes2/Redes/Socketsv4/Sockets/Practica_Sockets_Redes/ClientConnection.h
+	<pthread.h>
+	<cstdio>
+	<cstdint>
+
+1558687062 source:/home/labredes2/Redes/Socketsv4/Sockets/Practica_Sockets_Redes/FTPServer.cpp
+	<cerrno>
+	<cstring>
+	<cstdarg>
+	<cstdio>
+	<netdb.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<unistd.h>
+	<pthread.h>
+	<list>
+	<iostream>
+	"common.h"
+	"FTPServer.h"
+	"ClientConnection.h"
+
+1556870314 /home/labredes2/Redes/Socketsv4/Sockets/Practica_Sockets_Redes/common.h
+	<cstdlib>
+
+1558689378 source:/home/labredes2/Redes/Socketsv4/Sockets/Practica_Sockets_Redes/ClientConnection.cpp
+	<cstring>
+	<cstdarg>
+	<cstdio>
+	<cerrno>
+	<netdb.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<pwd.h>
+	<grp.h>
+	<time.h>
+	<locale.h>
+	<langinfo.h>
+	<fcntl.h>
+	<unistd.h>
+	<sys/stat.h>
+	<iostream>
+	<dirent.h>
+	"common.h"
+	"ClientConnection.h"
+	"FTPServer.h"
+
